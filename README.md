@@ -8,13 +8,7 @@
 
 ## 🧠 ABOUT ME
 
-I’m a Full-Stack Developer focused on building clean, scalable, and user-centric applications.
-
-I work with **React, Node.js, and modern web technologies** to develop real-world systems with strong emphasis on performance, usability, and maintainable architecture.
-
-I don’t just follow tutorials—I build, break, debug, and improve continuously to deepen my understanding of how systems actually work.
-
-I’m looking to contribute to impactful teams, take ownership of meaningful problems, and grow through real-world engineering challenges.
+I’m a Full-Stack Developer focused on building clean, scalable, and user-centric applications.I work with **React, Node.js, and modern web technologies** to develop real-world systems with strong emphasis on performance, usability, and maintainable architecture.I don’t just follow tutorials—I build, break, debug, and improve continuously to deepen my understanding of how systems actually work.I’m looking to contribute to impactful teams, take ownership of meaningful problems, and grow through real-world engineering challenges.
 
 ---
 
@@ -51,7 +45,9 @@ I’m looking to contribute to impactful teams, take ownership of meaningful pro
 
 - LinkedIn: www.linkedin.com/in/sowmiyark02  
 - GitHub: github.com/sowmiyark0102  
-
+<p align="center">
+  <b>“Build with purpose. Improve every day. Let the work speak.”</b>
+</p>
 ---
 
 <p align="center">
