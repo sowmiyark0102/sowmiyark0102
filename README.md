@@ -1,85 +1,59 @@
 # 👩‍💻 Sowmiya R K
 
 <p align="center">
-  <b>AI Engineer • Full-Stack Developer • ML Systems Builder</b>
-</p>
-
-<p align="center">
-  Chennai, India 🇮🇳 • Open to Collaboration
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sowmiyark0102&label=Profile%20Views&style=flat" />
-  <img src="https://img.shields.io/badge/Focus-AI%20Systems-blue" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-success" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Full-Stack%20Developer%20%7C%20AI%20Engineer&fontSize=36&fontColor=fff&animation=twinkling"/>
 </p>
 
 ---
 
-## SUMMARY
+## 🧠 ABOUT ME
 
-AI + Full-Stack developer focused on building scalable, production-ready intelligent systems.
+I’m a Full-Stack Developer focused on building clean, scalable, and user-centric applications.
 
-Strong interest in machine learning, LLMs, and backend architecture. Comfortable working across the stack — from model design to deployment.
+I work with **React, Node.js, and modern web technologies** to develop real-world systems with strong emphasis on performance, usability, and maintainable architecture.
 
----
+I don’t just follow tutorials—I build, break, debug, and improve continuously to deepen my understanding of how systems actually work.
 
-## CORE SKILLS
-
-**Programming**
-Python • JavaScript • Java • C++
-
-**Frontend**
-React.js • HTML • CSS
-
-**Backend**
-Node.js • Express.js • FastAPI
-
-**AI / ML**
-Machine Learning • Deep Learning • NLP • Computer Vision  
-Transformers • Hugging Face • spaCy • OpenCV • scikit-learn
-
-**Databases & Tools**
-MongoDB • PostgreSQL • Firebase • Git • Postman • VS Code
+I’m looking to contribute to impactful teams, take ownership of meaningful problems, and grow through real-world engineering challenges.
 
 ---
 
-## FOCUS AREAS
+## 🛠️ SKILLS
 
-- Large Language Models (LLMs)
-- AI system design & architecture
-- Full-stack web applications
-- ML model deployment (MLOps basics)
-- Scalable backend systems
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,java,cpp,c" />
+</p>
+
+### 🌐 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css" />
+</p>
+
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
+</p>
+
+### 🤖 AI / ML
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,opencv" />
+</p>
+
+### 🗄️ Databases & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,firebase,git,postman,vscode" />
+</p>
 
 ---
 
-## INTERESTS
+## 📫 CONTACT
 
-- Building production AI systems  
-- Real-world problem solving  
-- System design & architecture  
-- Open-source contribution  
-- Competitive programming / DSA  
-
----
-
-## OPEN TO
-
-✔ Collaboration on AI / ML projects  
-✔ Hackathons & technical teams  
-✔ Open-source contributions  
-✔ Internships & research opportunities  
-
----
-
-## CONTACT
-
-LinkedIn: www.linkedin.com/in/sowmiyark02  
-GitHub: github.com/sowmiyark0102  
+- LinkedIn: www.linkedin.com/in/sowmiyark02  
+- GitHub: github.com/sowmiyark0102  
 
 ---
 
 <p align="center">
-  <b>"Build systems that scale. Learn relentlessly. Ship real impact."</b>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </p>
