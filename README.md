@@ -41,10 +41,6 @@ I’m a Full-Stack Developer focused on building clean, scalable, and user-centr
 
 ---
 
-## 📫 CONTACT
-
-- LinkedIn: www.linkedin.com/in/sowmiyark02  
-- GitHub: github.com/sowmiyark0102  
 <p align="center">
   <b>“Build with purpose. Improve every day. Let the work speak.”</b>
 </p>
